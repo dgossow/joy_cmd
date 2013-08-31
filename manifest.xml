@@ -1,0 +1,13 @@
+<package>
+  <description brief="Execute system commands using the joystick">
+    Lets you assign system commands to a joystick button.
+  </description>
+
+  <author>David Gossow/dgossow@willowgarage.com</author>
+
+  <license>BSD</license>
+
+  <depend package="sensor_msgs"/>
+  <depend package="roscpp"/>
+
+</package>
